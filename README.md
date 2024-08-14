@@ -2,7 +2,8 @@
 
 ## LINKS
 
-<a href = 'https://github.com/galessalazar'>Github</a></br>
+<a href = 'https://github.com/galessalazar/readme-generator'>Github</a></br>
+<a href = 'https://app.screencastify.com/v2/manage/videos/Z0kpCR97lQlUE8dsVaCo'>Video Link</a>
 
 ## Description
 
